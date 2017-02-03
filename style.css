@@ -49,6 +49,7 @@ h1{
 }
 p{
 	font-size: 1rem;
+	color : blue;
 }
 @media(-webkit-max-device-pixel-ratio:2){
 
